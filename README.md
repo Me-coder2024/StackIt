@@ -1,12 +1,12 @@
 # StackIt – A Minimal Q&A Forum Platform
-Team Leader Name
-Krish Kumar Gupta
-Team Name
-Team 0829
-Email
-me.coder.in@gmail.com
-Phone
-6394948177
+Team Leader Name :
+     Krish Kumar Gupta
+Team Name :
+     Team 0829
+Email :
+     me.coder.in@gmail.com
+Phone :
+    6394948177
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
